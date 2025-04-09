@@ -1,4 +1,9 @@
 ## Memecoin Analysis Model
+![image](https://github.com/user-attachments/assets/6bad7fd9-f34c-4cdb-995d-5b7d0a7a6a94)
+
+![image](https://github.com/user-attachments/assets/d79a71e3-55de-471c-bdcd-eef5597588bb)
+
+
 ### 1. Data Collection and Setup
 Dune Analytics Data Retrieval
 
